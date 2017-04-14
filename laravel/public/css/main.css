@@ -21,7 +21,7 @@
 
 .error {
     border:1px solid red;
-    background-color: #761c19;
+    background-color: #FFFFFF;
     color: red;
 }
 .error ul {
@@ -32,6 +32,6 @@
 
 .success {
     border: 1px solid green;
-    background-color: #2b542c;
+    background-color: #FFFFFF;
     color: green;
 }
